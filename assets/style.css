@@ -1,1 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.description {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: #9ae06c;
+}
+
